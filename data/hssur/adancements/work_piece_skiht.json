@@ -1,0 +1,13 @@
+{
+  “criteria”: {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "condition": {
+        "recipe" "hssur:work_piece_skiht"
+       }
+    } 
+  }, 
+  "rewards":" {
+    "function": "hssur:craft/work_piece_skiht"
+  }
+}
