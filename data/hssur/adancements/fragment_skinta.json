@@ -1,0 +1,13 @@
+{
+  “criteria”: {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "condition": {
+        "recipe" "hssur:fragment_skinta"
+       }
+    } 
+  }, 
+  "rewards":" {
+    "function": "hssur:craft/fragment_skinta"
+  }
+}

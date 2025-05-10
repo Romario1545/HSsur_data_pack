@@ -1,0 +1,13 @@
+{
+  “criteria”: {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "condition": {
+        "recipe" "hssur:splinter_skinta"
+       }
+    } 
+  }, 
+  "rewards":" {
+    "function": "hssur:craft/splinter_skinta"
+  }
+}

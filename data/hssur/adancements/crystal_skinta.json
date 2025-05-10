@@ -1,0 +1,13 @@
+{
+  “criteria”: {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "condition": {
+        "recipe" "hssur:crystal_skinta"
+       }
+    } 
+  }, 
+  "rewards":" {
+    "function": "hssur:craft/crystal_skinta"
+  }
+}

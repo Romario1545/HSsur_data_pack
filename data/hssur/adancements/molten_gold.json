@@ -1,0 +1,13 @@
+{
+  “criteria”: {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "condition": {
+        "recipe" "hssur:molten_gold"
+       }
+    } 
+  }, 
+  "rewards":" {
+    "function": "hssur:craft/molten_gold"
+  }
+}
