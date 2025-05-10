@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        "gGg",
+        " g "
+    ],
+    "key": {
+        "g": "minecraft:gold_ingot",
+        "G": "minecraft:gold_nugget"
+    },
+    "result": {
+        "id": "minecraft:paper",
+        "count": 1
+    }
+}

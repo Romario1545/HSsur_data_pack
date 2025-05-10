@@ -1,0 +1,10 @@
+advancement revoke @s only hssur:molten_gold
+recipe take @s hssur:molten_gold
+clear @s minecraft:paper
+
+give @s diamond{display:{Nane:'{"text":"расплавленное золото", "italic":false}'},CustonModelData:4,AttributeModifiers:
+[{AttributeNane:"generic.attack_danage”,Nane:"generic.attack_danage”,Anount:5,Operation:0,UUID: [1;1598426751,-
+2066528057,-1637099961,2008267069],Slot:"mainhand"},
+{AttributeName:"generic.attack_speed”,Name: “generic.attack_speed",Amount:1.2,Operation:0,UUII[I;-
+327357506,244532499, -2006177078,-1708744632],Slot:"mainhand”}]}
+
